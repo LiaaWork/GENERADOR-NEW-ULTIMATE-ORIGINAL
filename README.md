@@ -1,5 +1,7 @@
 ﻿# GENERADOR-NEW-ULTIMATE-ORIGINAL
 
+![logo](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/GENERADOR-NEW-ULTIMATE-ORIGINAL/master/GENERADOR_NEW_ULTIMATE.png)
+
 Generador De Key NEWADM
 
 1 • RECOMENDADO UBUNTU 14.04
@@ -11,6 +13,8 @@ Generador De Key NEWADM
 apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/GENERADOR-NEW-ULTIMATE-ORIGINAL/master/instgerador.sh; chmod 777 instgerador.sh* && ./instgerador.sh
 
 =======================================================================
+
+![logo](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/GENERADOR-NEW-ULTIMATE-ORIGINAL/master/NEW_ULTIMATE.png)
 
 NEW - ADM - MANAGER ( OFICIAL ) PARA QUE USEN SU GENERADOR DE KEY
 
@@ -28,8 +32,3 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AA
 
 ☆ https://t.me/admmanagerfree ☆
 =================================================
-TEAM [ ILLUMINATI ⃘⃤꙰✰ ] @El_Gato "Su Servidor Chile Viva mi RAZA Hijos de la gran PUTA"
-
-Saludos al grupo Oficial de Whatsapp:
-
-[ FULL SCRIPTS ⃘⃤꙰✰ ] && VPS
