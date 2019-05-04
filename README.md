@@ -1,6 +1,6 @@
 ﻿# GENERADOR-NEW-ULTIMATE-ORIGINAL
 
-![logo](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/GENERADOR-NEW-ULTIMATE-ORIGINAL/master/GENERADOR_NEW_ULTIMATE.png)
+![logo](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/GENERADOR-NEW-ULTIMATE-ORIGINAL/master/INSTALL_GENERADOR.png)
 
 Generador De Key NEWADM
 
@@ -12,9 +12,11 @@ Generador De Key NEWADM
 
 apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/GENERADOR-NEW-ULTIMATE-ORIGINAL/master/instgerador.sh; chmod 777 instgerador.sh* && ./instgerador.sh
 
+![logo](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/GENERADOR-NEW-ULTIMATE-ORIGINAL/master/GENERADOR_NEW_ULTIMATE.png)
+
 =======================================================================
 
-![logo](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/GENERADOR-NEW-ULTIMATE-ORIGINAL/master/NEW_ULTIMATE.png)
+![logo](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/GENERADOR-NEW-ULTIMATE-ORIGINAL/master/INSTALL_NEWADM.png)
 
 NEW - ADM - MANAGER ( OFICIAL ) PARA QUE USEN SU GENERADOR DE KEY
 
@@ -23,6 +25,8 @@ apt-get update -y; apt-get upgrade -y; wget https://www.dropbox.com/s/s4k7ovuimv
 INSTALADOR ALTERNATIVO
 
 apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/GENERADOR-NEW-ULTIMATE-ORIGINAL/master/instalar.sh; chmod 777 instalar.sh* && ./instalar.sh*
+
+![logo](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/GENERADOR-NEW-ULTIMATE-ORIGINAL/master/NEW_ULTIMATE.png)
 
 ================================================================================
 
