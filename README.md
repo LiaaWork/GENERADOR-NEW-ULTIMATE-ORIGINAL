@@ -16,17 +16,18 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AA
 
 ![logo](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/GENERADOR-NEW-ULTIMATE-ORIGINAL/master/INSTALL_GENERADOR.png)
 
+```
+PARA INGRESAR AL GENERADOR ESCRIBE LOS COMANDOS EN MINUSCULA  gerar.sh o gerar
+```
+
 ![logo](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/GENERADOR-NEW-ULTIMATE-ORIGINAL/master/GENERADOR_NEW_ULTIMATE.png)
 
-![logo](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/GENERADOR-NEW-ULTIMATE-ORIGINAL/master/INSTALL_NEWADM.png)
-
-```
-SI TIENES PROBLEMAS DE TRADUCCION DEBES CAMBIAR A IDIOMA PORTUGUES MENU 7 OPCION 6
-```
 
 ```
 NEW - ADM - MANAGER ( OFICIAL ) PARA QUE USEN SU GENERADOR DE KEY
 ```
+
+## Installation
 
 apt-get update -y; apt-get upgrade -y; wget https://www.dropbox.com/s/s4k7ovuimvkr3zf/instalar.sh?dl=0; chmod 777 instalar.sh* && ./instalar.sh*
 
@@ -34,9 +35,17 @@ apt-get update -y; apt-get upgrade -y; wget https://www.dropbox.com/s/s4k7ovuimv
 INSTALADOR ALTERNATIVO
 ```
 
+## Installation
+
 apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/GENERADOR-NEW-ULTIMATE-ORIGINAL/master/instalar.sh; chmod 777 instalar.sh* && ./instalar.sh*
 
+![logo](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/GENERADOR-NEW-ULTIMATE-ORIGINAL/master/INSTALL_NEWADM.png)
+
 ![logo](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/GENERADOR-NEW-ULTIMATE-ORIGINAL/master/NEW_ULTIMATE.png)
+
+```
+SI TIENES PROBLEMAS DE TRADUCCION DEBES CAMBIAR A IDIOMA PORTUGUES MENU 7 OPCION 6
+```
 
 ```
 * SIN MINERIA! 
