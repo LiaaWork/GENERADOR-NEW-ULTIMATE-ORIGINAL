@@ -7,6 +7,8 @@ O EJECUTAR EL COMANDO SIGUIENTE:
                 echo "pt" > /etc/newadm/idioma && chmod +x /etc/newadm/idioma
 ```
 
+-------------------------------------------------------------------------------
+
 **Generador De Key NEWADM**
 
 ## :heavy_exclamation_mark: Requerimientos
