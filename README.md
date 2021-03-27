@@ -72,3 +72,29 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AA
 ```
 
 **By: [ FULL SCRIPTS ⃘⃤꙰✰ ]**
+
+
+COMANDOS PARA AGREGAR V2RAY A LA SCRIPT
+
+CONFIGURAR V2RAY 
+source <(curl -sL https://multi.netlify.com/v2ray.sh) --remove
+
+
+ source <(curl -sL https://multi.netlify.com/v2ray.sh)
+
+
+**v2ray stream**
+
+Opción 3
+
+Poner dominio
+
+v2ray tls
+
+Opción 1
+
+Otra vez 1
+
+De ahí vuelves a poner tu dominio
+
+Por ultimo v2ray info
